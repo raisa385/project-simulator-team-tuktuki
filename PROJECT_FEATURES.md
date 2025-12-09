@@ -19,3 +19,13 @@ including validation and error handling. Clear button and Confirm button added.
 
 This feature adds lawyers fingerprint.
 
+\##Task T-10: Lawyer Photo upload
+
+this feature helps to upload lawyer photo
+
+\##Task T-10: Lawyer info
+
+this feature helps to upload info
+
+
+

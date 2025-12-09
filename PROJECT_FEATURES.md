@@ -9,3 +9,8 @@ completed two-factor authentication (T-12)
 This task involves creating a registration form with name, email and password fields, 
 including validation and error handling. Clear button and Confirm button added.
 **Status: Implemented**
+
+##Task T-13: Implement Lawyer Registration
+This task involves creating a registration form with name, email and password fields, 
+including validation and error handling. Clear button and Confirm button added.
+**Status: Implemented**

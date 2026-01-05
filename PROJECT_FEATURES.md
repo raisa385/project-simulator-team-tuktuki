@@ -29,3 +29,7 @@ this feature helps to upload info
 
 
 
+"## T-13: Implement User registration page "
+"This task involves creating a registration form component with email and password fields, including validation and error handling." 
+"**Status: Implemented**" 
+"" 
